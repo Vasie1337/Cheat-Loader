@@ -1,5 +1,5 @@
 # Cheat Loader
-Repository with 4-parts (Driver, Client, Server, Panel)
+Repository with 4-parts (_Driver_, Client, Server, Panel)
 
 **Driver(Windows):** (REMOVED)
 
@@ -10,6 +10,4 @@ The client has a simple login simple, (**Client** <-> **Server** communcation is
 Handles the **client** login, the keys, expiration and the panel creating/deleting keys. Code needs to be fixed & cleaned.
 
 **Panel(Windows):**
-Just create and delete keys.
-
-This is just a small project I work on sometimes, and I know that there are a lot of improvements possible ;)
+Just to create and delete keys.
